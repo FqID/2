@@ -113,6 +113,7 @@
 <body>
 
 
+
 <a target="_blank" href="https://gitlab.com/shenzhouzhengdao/w/"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <br>
 
@@ -124,9 +125,7 @@
 手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/19920513/www/blob/master/README.md?v#1<br>
 <br><img align="middle" src="https://raw.githubusercontent.com/19920513/www/master/t/fg200.gif?o" title="分享本平台"></img>&nbsp;&#160;&nbsp;&#160;<img align="middle" src="https://quickchart.io/qr?text=https://tinyurl.com/iifff&size=240" title="分享本平台"></img>&nbsp;&#160;<img align="middle" src="https://quickchart.io/qr?text=https://github.com/19920513/www/blob/master/README.md?f%231&size=240" title="分享本平台"></img>
 <br>
-<a href="https://tinyurl.com/jjjmm">tinyurl.com/jjjcc</
-
-a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://tinyurl.com/iqqqq">tinyurl.com/ee5ee</a>
+<a href="https://tinyurl.com/jjjmm">tinyurl.com/jjjcc</a>&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://tinyurl.com/iqqqq">tinyurl.com/ee5ee</a>
 &nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;<a href="https://tinyurl.com/iizzz">tinyurl.com/iixxx</a>
 <br>
 <br>
@@ -166,7 +165,6 @@ border="0" alt="stats counter"></a>
 
 </body>
 </html>
-
 
 
 
